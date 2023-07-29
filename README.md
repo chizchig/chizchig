@@ -1,16 +1,18 @@
-### Hi there 👋
+DEVOPS/SRE
 
-<!--
-**chizchig/chizchig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+A passionate Site Reliability Engineer (SRE) and DevOps enthusiast with a strong background in building and optimizing robust, scalable, and highly available infrastructure.
 
-Here are some ideas to get you started:
+## What I Do
+- As an SRE, I focus on designing and implementing automation solutions to ensure the reliability and performance of complex systems.
+- I specialize in developing CI/CD pipelines to streamline software delivery and enhance the development workflow.
+- I'm constantly exploring ways to optimize cloud infrastructure, leveraging technologies like Kubernetes and Terraform for efficient scalability.
+- I love building and maintaining monitoring and alerting systems to proactively detect and resolve incidents, ensuring a smooth user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Toolbox
+-  Python | Go | Bash | PowerShell
+-  Kubernetes | Docker | Helm | Terraform
+-  Jenkins | GitLab CI/CD | GitHub Actions
+-  Prometheus | Grafana | ELK Stack
+-  AWS | GCP 
+
