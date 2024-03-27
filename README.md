@@ -4,7 +4,7 @@
 <h3 align="center">DEVOPS ENGINEER
 <h3 align="left"> Hi, 
 <h3 align="left">
-I am Chinazam C. Dennar, a seasoned DevOps/SRE Engineer based in Canada, boasting over 6 years of expertise in delivering and maintaining automated, scalable infrastructure, continuous integration/delivery pipelines, and effective incident response. My leadership capabilities are evidenced by successfully managing SRE teams and efficiently resolving production issues with precision.
+I am Chinazam C. Dennar, a seasoned DevOps/SRE Engineer based in Canada, boasting over 7 years of expertise in delivering and maintaining automated, scalable infrastructure, continuous integration/delivery pipelines, and effective incident response. My leadership capabilities are evidenced by successfully managing SRE teams and efficiently resolving production issues with precision.
 
 I specialize in multicloud platforms, particularly AWS, Azure, and GCP, and possess a robust understanding of container orchestration and configuration management. My proficiency extends to utilizing Infrastructure as Code tools such as Terraform, AWS CDK, Pulumi, and Azure Bicep. Additionally, I have a profound understanding of incident response, management, and disaster recovery procedures.
 
